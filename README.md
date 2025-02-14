@@ -11,6 +11,7 @@
 - [Conclusion](#conclusion)
 
 ### Project Overview
+---
 This project aims to create an interactive dashbaord to display year over year sales data for a hypothetical bike company, BikeStores. By querying the desired data from the compaies database a comprehensive sales dashbaord was created to provide managment with insight into the main revenue drivers.
 
 ### Datasource
@@ -18,12 +19,14 @@ This project aims to create an interactive dashbaord to display year over year s
 Sales Data: Primary datasource used for this project was downloaded from the internet and loaded into SQL Managment Studios. 
 
 ### Tools
+---
 
 - SQL - Querying necessary data for dashboard
 - Excel - Data cleaning and pivots for understanding what was needed for final dashboard
 - Tableau - Creating Executive Dashboard. Link to final dashboard [https://public.tableau.com/app/profile/diego.perez1990/viz/BikeStoresDashboard_17395633944690/Dashboard1?publish=yes]
 
 ### Querying desired data in SQL
+---
 
 1. Loaded datasset to newly created folder for this project in SQL Managment Studios
    
@@ -76,6 +79,7 @@ SELECT
      - In Excel -> Data -> Get Data from Database. This links the query to the Excel workbook
     
 ### Excel Process
+---
 
 1. Over four thousand rows were loaded, the easiest way to clean up the data was by pivoting the query.
 
@@ -90,6 +94,7 @@ SELECT
 4. Once all the graphs were created, a slcier connection was used to filter all the graphs by year, state or store.
   
 ### Tableau Dashbaord
+---
 
 1. Imported the Query from Excel to Tableau.
    
@@ -109,6 +114,7 @@ SELECT
 
 
 ### Conclusion 
+---
 
 This project consited of working through the data analysis process to answer the business need. I was asked to provide a snapshot of the companies financials over the span of three years. Using the data analysis proces of
 
