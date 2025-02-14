@@ -88,11 +88,7 @@ SELECT
 3. Created graphs by pivoting different the data in different ways to get all the aspects I wanted in the final dashbaord.
 
 4. Once all the graphs were created, a slcier connection was used to filter all the graphs by year, state or store.
-    i . [https://docs.google.com/spreadsheets/d/1tE-ncn2yvuW4yr_B9WaiLRcZ_oCRTQuO/edit?gid=1503385792#gid=1503385792_]
-   
-   _Google drive will not display pivots or slicer created in Excel, but this gives a visual of the idea I had in mind_
-
-
+  
 ### Tableau Dashbaord
 
 1. Imported the Query from Excel to Tableau.
