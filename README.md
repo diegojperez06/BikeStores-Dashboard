@@ -3,19 +3,19 @@
 ## Table of Content
 
 - [Project Overview](#project-overview)
-- [Datasources](datasources)
-- [Tools](tools)
-- [Querying desired data in SQL](querying-desired-data-in-sql)
-- [Excel Process](excel-process)
-- [Tableau Dashbaord](tableau-dashbaord)
-- [Conclusion](conclusion)
+- [Datasources](#datasources)
+- [Tools](#tools)
+- [Querying desired data in SQL](#querying-desired-data-in-sql)
+- [Excel Process](#excel-process)
+- [Tableau Dashbaord](#tableau-dashbaord)
+- [Conclusion](#conclusion)
 
 ### Project Overview
 This project aims to create an interactive dashbaord to display year over year sales data for a hypothetical bike company, BikeStores. By querying the desired data from the compaies database a comprehensive sales dashbaord was created to provide managment with insight into the main revenue drivers.
 
 ### Datasource
 
-Sales Data: Primary database used for this project was downloaded from the internet and loaded into SQL Managment Studios. 
+Sales Data: Primary datasource used for this project was downloaded from the internet and loaded into SQL Managment Studios. 
 
 ### Tools
 
