@@ -28,7 +28,7 @@ Sales Data: Primary datasource used for this project was downloaded from the int
 ### Querying desired data in SQL
 ---
 
-1. Loaded datasset to newly created folder for this project in SQL Managment Studios
+1. Loaded dataset to newly created folder for this project in SQL Managment Studios
    
     i. Dataset consits of multiple tables with customer, product and sales information.
 
@@ -75,7 +75,7 @@ SELECT
     	sto.store_name,
     	CONCAT(sta.first_name,' ',sta.last_name)
 
-  3. Exported  results to Excel to begin datacleaning susing a connection between the workbook and database. Any changes in the database will automatically be reflected in the workbook.
+  3. Exported  results to Excel to begin datacleaning process using a connection between the workbook and database. Any changes in the database will automatically be reflected in the workbook.
      - In Excel -> Data -> Get Data from Database. This links the query to the Excel workbook
     
 ### Excel Process
